@@ -1,6 +1,6 @@
 {
   "name": "electron-contextmenu-listener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handles context menu events",
   "scripts": {
     "doc": "esdoc -c ./esdoc.json",
@@ -16,7 +16,7 @@
     "contextmenu",
     "electron"
   ],
-  "author": "Kevin Li",
+  "author": "Paul Betts <paul@paulbetts.org>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kevinlims/electron-contextmenu-listener/issues"
